@@ -5,31 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8195558b-e9f0-44cf-a7d8-62a5924c6982" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TaskManagementSystemDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/ActivityLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Tag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/TaskList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enums/TaskPriority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enums/TaskStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/ActivityLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/TaskObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/DoneState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/InProgressState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/TaskState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/TodoState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/SortByDueDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/SortByPriority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/strategy/TaskSortStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/taskmanagement/TaskManagementSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="35BfcnLojn05QHkwkA8HjbinSJy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -61,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="RunManager">
